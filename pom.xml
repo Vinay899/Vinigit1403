@@ -43,7 +43,7 @@
                 <repository>
                         <id>repo</id>
                         <name>repo</name>
-                        <url>http://13.56.160.211:8081/nexus/content/repositories/repo/</url>
+                        <url>http://18.144.14.199:8081/nexus/content/repositories/repo/</url>
                 </repository>
 </distributionManagement>
 </project>
